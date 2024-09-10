@@ -1,12 +1,4 @@
-// escopo global
-// hello world
-const msg = "olá eu";
+// arrays, objetos
+let meta = ["gabriel", "alo"]
 
-// ao abrir chaves se torna um escopo
-{
-    // escopo local
-    const msg = 'olá mundo!'
-    
-}
-
-console.log(msg);
+console.log(metas[1] + ", " + metas[0]);
