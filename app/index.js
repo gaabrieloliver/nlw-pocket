@@ -1,3 +1,5 @@
+const { select } = require('@inquirer/prompts') //linha 68 do aula.md
+
 const start = () => {
 
     while(true){
