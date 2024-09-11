@@ -72,6 +72,9 @@ Apresentar os dados
 - Conceito de Promisses
     - Uma pessoa utilizando o app da Uber, solicitando uma corrida, a Uber "promete" voltar com uma resposta, informando se encontrou um motorista ou não. 
     - Esperar por algo acontecer.
-    - Existem vários tipos de promisses
+    - Existem vários tipos de promisses.
+
+- Conceito de Assíncrona
+    -  Síncrona é algo que acontece de forma sincronizada, assíncrona é o oposto disso, ou seja, o JS lê linha por linha de forma síncrona. Assíncrona, é quando ele para em um determinado momento na leitura do código para esperar informações ou buscar informações ou fazer alguma atividade.
 
 - [x] Uso de funções assíncronas (async/await)
