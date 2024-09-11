@@ -66,3 +66,12 @@ Apresentar os dados
 
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncronas e Promisses:
+
+- Conceito de Promisses
+    - Uma pessoa utilizando o app da Uber, solicitando uma corrida, a Uber "promete" voltar com uma resposta, informando se encontrou um motorista ou não. 
+    - Esperar por algo acontecer.
+    - Existem vários tipos de promisses
+
+- [x] Uso de funções assíncronas (async/await)
