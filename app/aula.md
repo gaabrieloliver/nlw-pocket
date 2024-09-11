@@ -38,6 +38,7 @@ Apresentar os dados
 
 - [x] Operadores de atribuição de valor: = 
 - [x] Operador de concatenação: +
+- [x] Operadores de comparação: == != <= >= 
 
 ### Arrays:
 
@@ -61,6 +62,7 @@ Apresentar os dados
 # Condicionais
 
 - [x] switch
+- [x] if
 
 ## Módulos em Node.js:
 
