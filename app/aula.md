@@ -7,10 +7,10 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Peças de uma linguagem
 
-- [x] Comentários
-- [x] Declaração de variáveis (const, let)
+- Comentários
+- Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
-- [x] Tipos de dados (string, number, boolean)
+- Tipos de dados (string, number, boolean)
 - Estrutura de dados (functions, objects, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
@@ -39,10 +39,12 @@ Apresentar os dados
 - [x] Operadores de atribuição de valor: = 
 - [x] Operador de concatenação: +
 - [x] Operadores de comparação: == != <= >= 
+- [x] Spread operator: ...
 
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
